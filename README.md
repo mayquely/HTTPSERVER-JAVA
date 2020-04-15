@@ -1,9 +1,14 @@
 # HTTP SERVER | JAVA 
 El objetivo general del proyecto consiste en programar un servidor HTTP capaz de responder a solicitudes HTTP en Java.
+
 El servidor debe ser programado con sockets. 
+
 No se puede utilizar ninguna biblioteca HTTP.
+
 Deberá utilizar programación concurrente.
+
 Se debe manejar una lista de Mime Types (puede utilizar esta lista en XML de Mime Types).
+
 El servidor mantendrá una bitácora de conexiones.
 # HTTP METODOS DE PETICIÓN
 **HEAD:** El método `GET` solicita una representación de un recurso específico. Las peticiones que usan el método `GET` sólo deben recuperar datos.
@@ -54,7 +59,7 @@ Propiedad de Mayquely Salmerón y Felipe Almanza. Desarrollado para el curso CI-
 
 Licencia
 
-Copyright (c) 2020 Mayquely Salmerón  maysjmnz@gmail.com, Felipe Almanza .
+Copyright (c) 2020 Mayquely Salmerón  maysjmnz@gmail.com, Felipe Almanza falmanza4@gmail.com.
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados, para tratar el Software sin restricciones, incluyendo sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribuir, sublicenciar y / o vender copias del Software, y permite a las personas a quienes se les proporciona el Software hacerlo, sujeto a las siguientes condiciones:
 
