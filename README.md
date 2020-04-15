@@ -42,11 +42,11 @@ El método solicitado no esta soportado por el servidor y no puede ser manejada.
 # Referencias
 
 
-	 SSaurel's Blog :   https://www.ssaurel.com/blog/create-a-simple-http-web-server-in
- HTTP Server: Everything you need to know to Build a simple HTTP server from scratch-java:  https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratchd1ef8945e4fawww.w3.org/Protocols/rfc2616/rfc2616.html.
- Códigos de estado de respuesta HTTP - HTTP | MDN: 
+-	 SSaurel's Blog :   https://www.ssaurel.com/blog/create-a-simple-http-web-server-in
+- HTTP Server: Everything you need to know to Build a simple HTTP server from scratch-java:  https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratchd1ef8945e4fawww.w3.org/Protocols/rfc2616/rfc2616.html.
+- Códigos de estado de respuesta HTTP - HTTP | MDN: 
 https://developer.mozilla.org/es/docs/Web/HTTP/Status 
-# Hypertext Transfer Protocol -- HTTP/1.1: http://www.w3.org/Protocols/rfc2616/rfc2616.html. 
+- Hypertext Transfer Protocol -- HTTP/1.1: http://www.w3.org/Protocols/rfc2616/rfc2616.html. 
 
 # Autor
 
